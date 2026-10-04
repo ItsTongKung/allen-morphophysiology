@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite both the repository (below) and the
+  accompanying manuscript (preferred-citation).
+title: >-
+  Coupling between dendritic arborization and intrinsic membrane physiology
+  in the released mouse and human reconstructions of the Allen Cell Types
+  Database
+authors:
+  - family-names: Sriwicha
+    given-names: Phongsakon
+    orcid: "https://orcid.org/0009-0001-0561-1076"
+    affiliation: >-
+      Department of Computer Engineering, Faculty of Engineering,
+      King Mongkut's University of Technology Thonburi (KMUTT),
+      Bangkok, Thailand
+version: 1.0.0
+date-released: "2026-10-04"
+license: MIT
+repository-code: "https://github.com/ItsTongKung/allen-morphophysiology"
+# identifiers:  # TODO: uncomment and fill in once a Zenodo DOI is minted
+#   - description: Zenodo archive of this repository
+#     type: doi
+#     value: "10.5281/zenodo.PLACEHOLDER"
+abstract: >-
+  Reproducible Python analysis code accompanying a secondary analysis of
+  publicly released mouse and human cortical neuron morphology and intrinsic
+  electrophysiology from the Allen Cell Types Database. The pipeline
+  re-derives arborization morphometrics from the released SWC reconstructions
+  (including axon geometry, per-cell Sholl profiles, and an apical/basal
+  compartment split), links them to the released electrophysiological
+  features cell-by-cell with the donor as the unit of inference, and
+  quantifies how sampling composition and morphological range shape the
+  apparent species differences in morphology-physiology coupling.
+keywords:
+  - Allen Cell Types Database
+  - neuronal morphology
+  - electrophysiology
+  - dendrites
+  - Sholl analysis
+  - cross-species comparison
+  - reproducibility
+preferred-citation:
+  type: article
+  title: >-
+    Coupling between dendritic arborization and intrinsic membrane physiology
+    in the released mouse and human reconstructions of the Allen Cell Types
+    Database
+  authors:
+    - family-names: Sriwicha
+      given-names: Phongsakon
+      orcid: "https://orcid.org/0009-0001-0561-1076"
+  year: 2026
+  # journal:  # TODO: fill in upon publication
+  # doi:  # TODO: fill in upon publication
+  notes: >-
+    Preprint; cite the published version when available.

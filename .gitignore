@@ -1,0 +1,26 @@
+# Data and outputs (never committed)
+data/
+results/
+figures/
+
+# Generated research artifacts
+*.csv
+*.parquet
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.swc
+*.pdf
+*.png
+*.svg
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.env
