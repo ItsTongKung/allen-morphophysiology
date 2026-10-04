@@ -18,10 +18,10 @@ version: 1.0.0
 date-released: "2026-10-04"
 license: MIT
 repository-code: "https://github.com/ItsTongKung/allen-morphophysiology"
-# identifiers:  # TODO: uncomment and fill in once a Zenodo DOI is minted
-#   - description: Zenodo archive of this repository
-#     type: doi
-#     value: "10.5281/zenodo.PLACEHOLDER"
+identifiers:
+  - description: Zenodo archive of this repository
+    type: doi
+    value: "10.5281/zenodo.23135429"
 abstract: >-
   Reproducible Python analysis code accompanying a secondary analysis of
   publicly released mouse and human cortical neuron morphology and intrinsic

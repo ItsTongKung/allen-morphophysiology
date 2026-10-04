@@ -101,8 +101,9 @@ so runs are deterministic. Outputs are written under `results/`.
 
 ## Citation
 
-See `CITATION.cff`. Please cite both the repository (Zenodo archive once
-minted) and the accompanying manuscript.
+See `CITATION.cff`. The v1.0.0 release is archived on Zenodo:
+DOI 10.5281/zenodo.23135429. Please cite both the repository archive and the
+accompanying manuscript.
 
 ## License
 
